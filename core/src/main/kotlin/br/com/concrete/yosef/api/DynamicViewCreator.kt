@@ -106,7 +106,7 @@ class DynamicViewCreator(
     }
 
     companion object {
-        internal fun getComponentByType(
+        fun getComponentByType(
             dynamicComponent: DynamicComponent,
             components: Map<String, Component>
         ): Component {

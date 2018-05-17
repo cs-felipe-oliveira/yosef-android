@@ -1,0 +1,32 @@
+{
+  "type": "textInputLayout",
+  "properties": [
+    {
+      "name": "width",
+      "value": "match",
+      "type": "dimenSpec"
+    },
+    {
+      "name": "height",
+      "value": "wrap",
+      "type": "dimenSpec"
+    }
+  ],
+  "children": [
+    {
+      "type": "textField",
+      "properties": [
+        {
+          "name": "width",
+          "value": "match",
+          "type": "dimenSpec"
+        },
+        {
+          "name": "height",
+          "value": "wrap",
+          "type": "dimenSpec"
+        }
+      ]
+    }
+  ]
+}
